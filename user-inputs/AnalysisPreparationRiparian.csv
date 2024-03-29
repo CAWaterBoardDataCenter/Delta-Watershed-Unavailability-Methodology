@@ -1,0 +1,82 @@
+SUBWATERSHED,APPL_ID,WATER_RIGHT_TYPE_CUSTOM,PRIORITY_DATE_CUSTOM,LEGAL_DELTA,HEADWATER
+Sacramento Bend,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Stony,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Cache,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Upper Feather,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Yuba,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Bear,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Upper American,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Putah,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Upper Sacramento Valley,-,Statement of Div and Use (Riparian),Riparian,FALSE,FALSE
+Sacramento Valley Floor,-,Statement of Div and Use (Riparian),Riparian,FALSE,FALSE
+Chowchilla,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Upper San Joaquin,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Fresno,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Merced,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Tuolumne,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Stanislaus,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Calaveras,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Mokelumne,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+Cosumnes,-,Statement of Div and Use (Riparian),Riparian,FALSE,TRUE
+San Joaquin Valley Floor,-,Statement of Div and Use (Riparian),Riparian,FALSE,FALSE
+Sacramento Bend,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Stony,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Cache,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Upper Feather,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Yuba,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Bear,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Upper American,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Putah,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Upper Sacramento Valley,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,FALSE
+Sacramento Valley Floor,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,FALSE
+Chowchilla,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Upper San Joaquin,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Fresno,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Merced,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Tuolumne,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Stanislaus,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Calaveras,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Mokelumne,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+Cosumnes,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,TRUE
+San Joaquin Valley Floor,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,FALSE,FALSE
+Sacramento Bend,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Stony,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Cache,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Upper Feather,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Yuba,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Bear,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Upper American,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Putah,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Upper Sacramento Valley,-,Statement of Div and Use (Other),Riparian,FALSE,FALSE
+Sacramento Valley Floor,-,Statement of Div and Use (Other),Riparian,FALSE,FALSE
+Chowchilla,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Upper San Joaquin,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Fresno,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Merced,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Tuolumne,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Stanislaus,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Calaveras,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Mokelumne,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+Cosumnes,-,Statement of Div and Use (Other),Riparian,FALSE,TRUE
+San Joaquin Valley Floor,-,Statement of Div and Use (Other),Riparian,FALSE,FALSE
+Putah,-,Statement of Div and Use (Riparian),Riparian,TRUE,TRUE
+Sacramento Valley Floor,-,Statement of Div and Use (Riparian),Riparian,TRUE,FALSE
+Stanislaus,-,Statement of Div and Use (Riparian),Riparian,TRUE,TRUE
+Calaveras,-,Statement of Div and Use (Riparian),Riparian,TRUE,TRUE
+Mokelumne,-,Statement of Div and Use (Riparian),Riparian,TRUE,TRUE
+Cosumnes,-,Statement of Div and Use (Riparian),Riparian,TRUE,TRUE
+San Joaquin Valley Floor,-,Statement of Div and Use (Riparian),Riparian,TRUE,FALSE
+Putah,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,TRUE,TRUE
+Sacramento Valley Floor,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,TRUE,FALSE
+Stanislaus,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,TRUE,TRUE
+Calaveras,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,TRUE,TRUE
+Mokelumne,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,TRUE,TRUE
+Cosumnes,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,TRUE,TRUE
+San Joaquin Valley Floor,-,Statement of Div and Use (Riparian or Pre-1914),Riparian,TRUE,FALSE
+Putah,-,Statement of Div and Use (Other),Riparian,TRUE,TRUE
+Sacramento Valley Floor,-,Statement of Div and Use (Other),Riparian,TRUE,FALSE
+Stanislaus,-,Statement of Div and Use (Other),Riparian,TRUE,TRUE
+Calaveras,-,Statement of Div and Use (Other),Riparian,TRUE,TRUE
+Mokelumne,-,Statement of Div and Use (Other),Riparian,TRUE,TRUE
+Cosumnes,-,Statement of Div and Use (Other),Riparian,TRUE,TRUE
+San Joaquin Valley Floor,-,Statement of Div and Use (Other),Riparian,TRUE,FALSE
