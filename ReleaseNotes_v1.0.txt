@@ -1,0 +1,13 @@
+Delta Watershed Unavailability Methodology Python beta release
+v1.0
+
+This initial beta release of the Methodology scripts contains the 4 core scripts, 12 input datasets, and the repository Readme and these Release Notes in text files. Inputs are the same as those represented in the Methodology spreadsheet used to issue the final curtailment update under the emergency regulation on March 7, 2023 (this spreadsheet is available on the State Water Board’s FTP site). Input data include the following:
+•	Water Rights and Demands datasets last updated February 21, 2023.
+•	PODs dataset last updated February 3, 2023.
+•	Enhanced Reporting of projected demand datasets for November 2022 through March 2023 in separate files for each month, last updated February 28, 2023.
+•	Consumptive Use Factors dataset (referred to as Return Flow factors in the spreadsheet) last updated June 27, 2022.
+•	Gap-Filling Factors dataset last updated September 17, 2021.
+•	Instream Flows Abandoned dataset last updated November 5, 2021.
+•	Analysis Preparation Riparian table last updated January 19, 2023.
+The Methodology is not currently being used to issue water right curtailments or for any other regulatory purposes.
+Questions regarding the scripts or bug reports should be posted as Issues in the project repository. Other general questions about the Methodology or drought emergency regulations in the Delta watershed should be sent to Bay-Delta@waterboards.ca.gov.
